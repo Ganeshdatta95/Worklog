@@ -1,4 +1,4 @@
-var Bank = /** @class */ (function () {
+var Bank = /** @class */ (function () { 
     function Bank(value) {
         balance = value;
     }

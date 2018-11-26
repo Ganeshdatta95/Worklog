@@ -8,7 +8,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-var Vehicle = /** @class */ (function () {
+var Vehicle = /** @class */ (function () { 
     function Vehicle() {
     }
     Vehicle.prototype.engine = function () {

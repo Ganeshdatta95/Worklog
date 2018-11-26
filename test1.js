@@ -7,7 +7,7 @@ var Television = /** @class */ (function () {
             case "1":
                 {
                     console.log("Selected A channel..");
-                    break;
+                    break; 
                 }
             case "2":
                 {
